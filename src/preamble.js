@@ -39,7 +39,7 @@ function lpad(str, length, padstr) {
   return padding + str;
 }
 
-var Backgrid = root.Backgrid = {
+var Backgrid = {
 
   Extension: {},
 
